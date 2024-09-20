@@ -1,0 +1,1 @@
+Este projeto tem como objetivo integrar e aplicar todos os conceitos aprendidos em [área de estudo] em um único projeto prático. A ideia é consolidar o conhecimento adquirido e demonstrar habilidades em [tecnologias/ferramentas específicas]. em um joguinho de desviar de obstaculos 
